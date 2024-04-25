@@ -1,4 +1,12 @@
 #this scripthas some error handling issues
+#simple comment
+#simple comment
+#simple comment
+#simple comment
+#simple comment
+#simple comment
+#simple comment
+#simple comment
 
 from packaged_classes import Tracker, Trackertwo
 
@@ -35,7 +43,6 @@ if first_input == 2:
 
 
 print("program finished running ")
-
 
 
 
