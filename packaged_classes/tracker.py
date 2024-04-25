@@ -2,10 +2,7 @@
 
 
 import csv
-#simple comment
-#simple comment
-#simple comment
-#simple comment
+
 
 
 class Tracker:
@@ -80,10 +77,7 @@ class Tracker:
                         break 
         return 0
         
-#simple comment
-#simple comment
-#simple comment
-#simple comment
+
 
 
 

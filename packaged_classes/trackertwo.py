@@ -1,9 +1,6 @@
 
 import csv
-#simple comment
-#simple comment
-#simple comment
-#simple comment
+
 
 
 class Trackertwo:
@@ -76,8 +73,4 @@ class Trackertwo:
         
 
 
-#simple comment
-#simple comment
-#simple comment
-#simple comment
 
