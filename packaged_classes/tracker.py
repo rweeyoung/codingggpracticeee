@@ -2,15 +2,7 @@
 
 
 import csv
-#simple comment
-#simple comment
-#simple comment
-#simple comment
-#simple comment
-#simple comment
-#simple comment
-#simple comment
-
+#
 
 class Tracker:
     def __init__(self, name):
